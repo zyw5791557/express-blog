@@ -7,6 +7,8 @@ const config = require('config-lite')(__dirname);
 const routes = require('./routes');
 const pkg = require('./package');
 
+const c = require('child_process');
+
 const app = express();
 
 // 设置模板目录
@@ -58,3 +60,5 @@ routes(app);
 app.listen(config.port, () => {
     console.log(`${pkg.name} listening on port ${config.port}`);
 });
+
+c.exec("start http://localhost:3000");
