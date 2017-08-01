@@ -1,10 +1,9 @@
 {
-  "name": "myexpress",
+  "name": "myblog",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a express item",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "supervisor --harmony index"
   },
   "author": "Emlice",
@@ -14,7 +13,7 @@
     "connect-flash": "0.1.1",
     "connect-mongo": "1.3.2",
     "ejs": "2.5.6",
-    "express": "4.15.3",
+    "express": "4.14.0",
     "express-formidable": "1.0.0",
     "express-session": "1.15.4",
     "express-winston": "2.4.0",
