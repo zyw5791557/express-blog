@@ -54,7 +54,7 @@ npm run dev
 
 正确启动 mongo 
 
-![mongo](C:\Users\Administrator\Desktop\mongo.png)
+![mongo](https://github.com/zyw5791557/express-blog/blob/master/blog/mongo.png)
 
 
 
