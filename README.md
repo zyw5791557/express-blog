@@ -68,14 +68,14 @@ npm run dev
 
 
 
-![register](C:\Users\Administrator\Desktop\register.png)
+![register](https://github.com/zyw5791557/express-blog/blob/master/blog/register.png)
 
-![login](C:\Users\Administrator\Desktop\login.png)
+![login](https://github.com/zyw5791557/express-blog/blob/master/blog/login.png)
 
-![comments](C:\Users\Administrator\Desktop\comments.png)
+![comments](https://github.com/zyw5791557/express-blog/blob/master/blog/comments.png)
 
-![result](C:\Users\Administrator\Desktop\result.png)
+![result](https://github.com/zyw5791557/express-blog/blob/master/blog/result.png)
 
-![main](C:\Users\Administrator\Desktop\main.png)
+![main](https://github.com/zyw5791557/express-blog/blob/master/blog/main.png)
 
-![button](C:\Users\Administrator\Desktop\button.png)
+![button](https://github.com/zyw5791557/express-blog/blob/master/blog/button.png)
